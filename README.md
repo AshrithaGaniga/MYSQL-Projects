@@ -60,4 +60,3 @@ This repository contains two **SQL projects** that showcase my expertise in **da
 ## **Final Thoughts:**  
 These SQL projects highlight my **ability to clean, transform, and analyze real-world datasets**. By leveraging **MySQL functions and queries**, I successfully extracted valuable insights into **layoff trends across industries, companies, and time periods**. The techniques used in these projects form the foundation for **advanced data analytics and reporting**.  
 
-👉 **Check out the SQL scripts and insights in this repository!** 🚀
